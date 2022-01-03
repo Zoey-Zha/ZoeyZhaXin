@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java,Spring Boot
 - 🌱 I’m currently learning Java, Spring Boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: xinxinzha92@gmail.com
+- 📫 How to reach me: xinzha92@gmail.com
 
 <!---
 ZoeyZhaXin/ZoeyZhaXin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
